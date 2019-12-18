@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19533" started-at="2019-12-17T19:51:00 EST" finished-at="2019-12-17T19:51:20 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19533" started-at="2019-12-17T19:51:00 EST" finished-at="2019-12-17T19:51:20 EST">
+      <class name="com.testing.AppTest">
+        <test-method status="PASS" signature="openBrowserOpenURL()[pri:0, instance:com.testing.AppTest@4ba2ca36]" name="openBrowserOpenURL" is-config="true" duration-ms="11931" started-at="2019-12-17T19:51:00 EST" finished-at="2019-12-17T19:51:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserOpenURL -->
+        <test-method status="PASS" signature="GmailLoginTest()[pri:0, instance:com.testing.AppTest@4ba2ca36]" name="GmailLoginTest" duration-ms="7532" started-at="2019-12-17T19:51:12 EST" finished-at="2019-12-17T19:51:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GmailLoginTest -->
+      </class> <!-- com.testing.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
